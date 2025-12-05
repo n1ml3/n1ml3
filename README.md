@@ -6,6 +6,8 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
+I’ve got a bunch of pinned projects, but my favorite is the [Obese prediction web ](https://github.com/n1ml3/diabetes-prediction-model).
+
 My main tech stack is react, typescript, tailwind, and python API. My favorite tools are figma, cursor and VS code.
 
 I’ve got a bunch of pinned projects, but my favorite is the [Profle website](https://namle-portfolio.vercel.app/).
