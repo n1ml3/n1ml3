@@ -10,8 +10,6 @@ I’ve got a bunch of pinned projects, but my favorite is the [Obese prediction 
 
 My main tech stack is react, typescript, tailwind, and python API. My favorite tools are figma, cursor and VS code.
 
-I’ve got a bunch of pinned projects, but my favorite is the [Profle website](https://namle-portfolio.vercel.app/).
-
 #### Fun Facts:
 
 * SUITS is my favorite TV series
