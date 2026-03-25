@@ -10,7 +10,7 @@ I’ve got a bunch of pinned projects, but my favorite is the [Portfolio website
 
 You can checkout my portfolio website here: [Nam Lê](https://namle-portfolio.vercel.app/)
 
-My main tech stack is HTML, CSS (bootstrap), Javascipt(NestJS) and my backend stack is: MongoDB & FireBase. My favorite tools are Git, VS code and docker.
+My main tech stack is HTML, CSS (bootstrap), Javascipt(NestJS) and my backend stack is: MongoDB & FireBase. My favorite tools are Git, Antigravity and docker.
 
 #### Fun Facts:
 
