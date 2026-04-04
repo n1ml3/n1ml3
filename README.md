@@ -14,5 +14,5 @@ My main tech stack is HTML, CSS (bootstrap), Javascipt(NestJS), Python and my da
 
 #### Fun Facts:
 
-* SUITS is my favorite TV series
-* **Hobbies:** anime, gaming, film.
+* **SUITS** is my favorite TV series
+* Hobbies: anime, gaming, film.
