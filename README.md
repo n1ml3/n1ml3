@@ -16,3 +16,5 @@ My main tech stack is HTML, CSS (bootstrap), Javascipt(NestJS), Python and my da
 
 * **SUITS** is my favorite TV series
 * Hobbies: anime, gaming, film.
+
+![Snake animation](https://raw.githubusercontent.com/n1ml3/n1ml3/output/github-contribution-grid-snake.svg)
