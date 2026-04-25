@@ -22,3 +22,16 @@ My main tech stack is HTML, CSS (bootstrap), Javascipt(NestJS), Python and my da
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1ml3/n1ml3/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n1ml3/n1ml3/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p>-----------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/n1ml3/github-readme/main/output/contribs-dark.svg" 
+  />
+  <img 
+    alt="Isometric GitHub contribution chart" 
+    src="https://raw.githubusercontent.com/n1ml3/github-readme/main/output/contribs-light.svg" 
+  />
+</picture>
